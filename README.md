@@ -1,3 +1,5 @@
+Minecraft Forge Mod to add Marble and Pillars
+
 ### Compiling and packaging
 1. Ensure that `Apache Ant` (found [here](http://ant.apache.org/)) is installed correctly on your system.
  * Linux users will need the latest version of astyle installed as well.
@@ -21,3 +23,4 @@ Your directory structure should look like this:
      |- resources
      |- common
      |- ...
+
